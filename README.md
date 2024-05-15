@@ -9,3 +9,7 @@ instruction, and I am excited to get the project underway.
 ## 2024-05-10
 Spent the day setting up my kaggle notebook and reviewing the introductory 
 info on fastai. Next week I will begin work on the actual project.
+
+## 2024-05-15
+Implemented code snippets on Kaggle. I will continue to expand on the 
+already built code that I copy and pasted
